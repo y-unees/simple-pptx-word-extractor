@@ -14,7 +14,6 @@ Working with `.pptx` files directly can be difficult for AI models due to:
 
 This project solves that problem by converting presentations into cleaner, more structured formats:
 - Extracts text directly from slides
-- Uses OCR to extract text from images (when needed)
 - Outputs content into `.txt` and `.docx` formats
 - Provides utilities to merge outputs for AI input
 
