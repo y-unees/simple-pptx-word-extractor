@@ -60,21 +60,6 @@ This project is especially useful for:
 
 ---
 
-## 📁 Project Structure (Planned)
-
-```
-project/
-│── main.py # Main processor (handles images + text)
-│── txt_only.py # Simplified text extractor
-│── merge_txt.py # Utility to merge text files
-│── output/
-│ ├── *.txt
-│ └── *.docx
-│── README.md
-```
-
----
-
 ## 🛠️ Technologies Used
 
 - Python
